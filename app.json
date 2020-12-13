@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DoneWithIt",
-    "slug": "DoneWithIt",
+    "name": "Gimme",
+    "slug": "gimme",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A virtual marketplace app built with React Native. I used this project to get acquainted with jsx for a larger passion project I'm currently researching and user testing for.",
+    "githubUrl": "https://github.com/allyson09/React-Native-Tutorial"
   }
 }
